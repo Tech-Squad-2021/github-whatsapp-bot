@@ -9,7 +9,7 @@ jobs:
         env:
           account_sid: ACe60c1e03fe831238b85dd4af08627c22
           auth_token: 9bde7204fb2fb486e7419e068da955dc
-          to_whatsapp_no: +919477683161
+          to_whatsapp_no: 9477683161
 
 
         
